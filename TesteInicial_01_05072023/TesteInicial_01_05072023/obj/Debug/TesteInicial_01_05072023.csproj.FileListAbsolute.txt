@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2012\Projects\TesteInicial_01_05072023\TesteInicial_01_05072023\bin\Debug\TesteInicial_01_05072023.exe.config
+c:\users\user\documents\visual studio 2012\Projects\TesteInicial_01_05072023\TesteInicial_01_05072023\bin\Debug\TesteInicial_01_05072023.exe
+c:\users\user\documents\visual studio 2012\Projects\TesteInicial_01_05072023\TesteInicial_01_05072023\bin\Debug\TesteInicial_01_05072023.pdb
+c:\users\user\documents\visual studio 2012\Projects\TesteInicial_01_05072023\TesteInicial_01_05072023\obj\Debug\TesteInicial_01_05072023.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\TesteInicial_01_05072023\TesteInicial_01_05072023\obj\Debug\TesteInicial_01_05072023.TesteInicial_01_05072023.resources
+c:\users\user\documents\visual studio 2012\Projects\TesteInicial_01_05072023\TesteInicial_01_05072023\obj\Debug\TesteInicial_01_05072023.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\TesteInicial_01_05072023\TesteInicial_01_05072023\obj\Debug\TesteInicial_01_05072023.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\TesteInicial_01_05072023\TesteInicial_01_05072023\obj\Debug\TesteInicial_01_05072023.exe
+c:\users\user\documents\visual studio 2012\Projects\TesteInicial_01_05072023\TesteInicial_01_05072023\obj\Debug\TesteInicial_01_05072023.pdb
+c:\users\user\documents\visual studio 2012\Projects\TesteInicial_01_05072023\TesteInicial_01_05072023\bin\Debug\Preferencias_1_05072023.mdb
