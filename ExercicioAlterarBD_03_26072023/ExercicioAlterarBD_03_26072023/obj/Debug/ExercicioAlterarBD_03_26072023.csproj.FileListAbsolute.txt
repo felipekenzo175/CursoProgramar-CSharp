@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2012\Projects\ExercicioAlterarBD_03_26072023\ExercicioAlterarBD_03_26072023\bin\Debug\ExercicioAlterarBD_03_26072023.exe.config
+c:\users\user\documents\visual studio 2012\Projects\ExercicioAlterarBD_03_26072023\ExercicioAlterarBD_03_26072023\bin\Debug\ExercicioAlterarBD_03_26072023.exe
+c:\users\user\documents\visual studio 2012\Projects\ExercicioAlterarBD_03_26072023\ExercicioAlterarBD_03_26072023\bin\Debug\ExercicioAlterarBD_03_26072023.pdb
+c:\users\user\documents\visual studio 2012\Projects\ExercicioAlterarBD_03_26072023\ExercicioAlterarBD_03_26072023\obj\Debug\ExercicioAlterarBD_03_26072023.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\ExercicioAlterarBD_03_26072023\ExercicioAlterarBD_03_26072023\obj\Debug\ExercicioAlterarBD_03_26072023.ExercicioAlterarBD_03_26072023.resources
+c:\users\user\documents\visual studio 2012\Projects\ExercicioAlterarBD_03_26072023\ExercicioAlterarBD_03_26072023\obj\Debug\ExercicioAlterarBD_03_26072023.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\ExercicioAlterarBD_03_26072023\ExercicioAlterarBD_03_26072023\obj\Debug\ExercicioAlterarBD_03_26072023.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\ExercicioAlterarBD_03_26072023\ExercicioAlterarBD_03_26072023\obj\Debug\ExercicioAlterarBD_03_26072023.exe
+c:\users\user\documents\visual studio 2012\Projects\ExercicioAlterarBD_03_26072023\ExercicioAlterarBD_03_26072023\obj\Debug\ExercicioAlterarBD_03_26072023.pdb
