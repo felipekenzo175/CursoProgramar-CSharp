@@ -16,7 +16,7 @@ namespace TesteInicial_01_05072023
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new TesteInicial_01_05072023());
+            Application.Run(new frmTesteInicial_01_05072023());
         }
     }
 }

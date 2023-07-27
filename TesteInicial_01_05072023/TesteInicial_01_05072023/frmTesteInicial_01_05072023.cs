@@ -13,7 +13,7 @@ using System.Data.OleDb;
 
 namespace TesteInicial_01_05072023
 {
-    public partial class TesteInicial_01_05072023 : Form
+    public partial class frmTesteInicial_01_05072023 : Form
     {
         StreamReader objLeitorTxt;
         string strLinhaLida;
@@ -25,7 +25,7 @@ namespace TesteInicial_01_05072023
 
         DataTable objTabela;
 
-        public TesteInicial_01_05072023()
+        public frmTesteInicial_01_05072023()
         {
             InitializeComponent();
         }

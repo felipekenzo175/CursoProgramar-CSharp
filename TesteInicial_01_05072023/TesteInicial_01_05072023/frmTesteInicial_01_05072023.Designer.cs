@@ -1,6 +1,6 @@
 ﻿namespace TesteInicial_01_05072023
 {
-    partial class TesteInicial_01_05072023
+    partial class frmTesteInicial_01_05072023
     {
         /// <summary>
         /// Required designer variable.
