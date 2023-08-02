@@ -7,3 +7,6 @@ c:\users\user\documents\visual studio 2012\Projects\TesteAlterarBD_01_02082023\T
 c:\users\user\documents\visual studio 2012\Projects\TesteAlterarBD_01_02082023\TesteAlterarBD_01_02082023\obj\Debug\TesteAlterarBD_01_02082023.csproj.GenerateResource.Cache
 c:\users\user\documents\visual studio 2012\Projects\TesteAlterarBD_01_02082023\TesteAlterarBD_01_02082023\obj\Debug\TesteAlterarBD_01_02082023.exe
 c:\users\user\documents\visual studio 2012\Projects\TesteAlterarBD_01_02082023\TesteAlterarBD_01_02082023\obj\Debug\TesteAlterarBD_01_02082023.pdb
+C:\GitHub\CursoProgrAmar\C#.net\TesteAlterarBD_01_02082023\TesteAlterarBD_01_02082023\bin\Debug\TesteAlterarBD_01_02082023.exe.config
+C:\GitHub\CursoProgrAmar\C#.net\TesteAlterarBD_01_02082023\TesteAlterarBD_01_02082023\obj\Debug\TesteAlterarBD_01_02082023.exe
+C:\GitHub\CursoProgrAmar\C#.net\TesteAlterarBD_01_02082023\TesteAlterarBD_01_02082023\obj\Debug\TesteAlterarBD_01_02082023.pdb
