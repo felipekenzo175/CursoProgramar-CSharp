@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteAlterarBD_01_02082023", "TesteAlterarBD_01_02082023\TesteAlterarBD_01_02082023.csproj", "{011A7CB9-973F-4D4A-9C4E-5C58497115E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{011A7CB9-973F-4D4A-9C4E-5C58497115E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{011A7CB9-973F-4D4A-9C4E-5C58497115E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{011A7CB9-973F-4D4A-9C4E-5C58497115E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{011A7CB9-973F-4D4A-9C4E-5C58497115E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2012\Projects\TesteAlterarBD_01_02082023\TesteAlterarBD_01_02082023\bin\Debug\TesteAlterarBD_01_02082023.exe.config
+c:\users\user\documents\visual studio 2012\Projects\TesteAlterarBD_01_02082023\TesteAlterarBD_01_02082023\bin\Debug\TesteAlterarBD_01_02082023.exe
+c:\users\user\documents\visual studio 2012\Projects\TesteAlterarBD_01_02082023\TesteAlterarBD_01_02082023\bin\Debug\TesteAlterarBD_01_02082023.pdb
+c:\users\user\documents\visual studio 2012\Projects\TesteAlterarBD_01_02082023\TesteAlterarBD_01_02082023\obj\Debug\TesteAlterarBD_01_02082023.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\TesteAlterarBD_01_02082023\TesteAlterarBD_01_02082023\obj\Debug\TesteAlterarBD_01_02082023.frmTesteAlterarBD_01_02082023.resources
+c:\users\user\documents\visual studio 2012\Projects\TesteAlterarBD_01_02082023\TesteAlterarBD_01_02082023\obj\Debug\TesteAlterarBD_01_02082023.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\TesteAlterarBD_01_02082023\TesteAlterarBD_01_02082023\obj\Debug\TesteAlterarBD_01_02082023.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\TesteAlterarBD_01_02082023\TesteAlterarBD_01_02082023\obj\Debug\TesteAlterarBD_01_02082023.exe
+c:\users\user\documents\visual studio 2012\Projects\TesteAlterarBD_01_02082023\TesteAlterarBD_01_02082023\obj\Debug\TesteAlterarBD_01_02082023.pdb
