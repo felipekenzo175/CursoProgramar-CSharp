@@ -7,3 +7,6 @@ c:\users\user\documents\visual studio 2012\Projects\TesteBancoDados_01_12072023\
 c:\users\user\documents\visual studio 2012\Projects\TesteBancoDados_01_12072023\TesteBancoDados_01_12072023\obj\Debug\TesteBancoDados_01_12072023.csproj.GenerateResource.Cache
 c:\users\user\documents\visual studio 2012\Projects\TesteBancoDados_01_12072023\TesteBancoDados_01_12072023\obj\Debug\TesteBancoDados_01_12072023.exe
 c:\users\user\documents\visual studio 2012\Projects\TesteBancoDados_01_12072023\TesteBancoDados_01_12072023\obj\Debug\TesteBancoDados_01_12072023.pdb
+C:\GitHub\CursoProgrAmar\C#.net\TesteBancoDados_01_12072023\TesteBancoDados_01_12072023\bin\Debug\TesteBancoDados_01_12072023.exe.config
+C:\GitHub\CursoProgrAmar\C#.net\TesteBancoDados_01_12072023\TesteBancoDados_01_12072023\obj\Debug\TesteBancoDados_01_12072023.exe
+C:\GitHub\CursoProgrAmar\C#.net\TesteBancoDados_01_12072023\TesteBancoDados_01_12072023\obj\Debug\TesteBancoDados_01_12072023.pdb
