@@ -1,0 +1,5 @@
+C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_02_23082023\PreferenciasBLL\bin\Debug\PreferenciasBLL.dll
+C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_02_23082023\PreferenciasBLL\bin\Debug\PreferenciasBLL.pdb
+C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_02_23082023\PreferenciasBLL\obj\Debug\PreferenciasBLL.csprojResolveAssemblyReference.cache
+C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_02_23082023\PreferenciasBLL\obj\Debug\PreferenciasBLL.dll
+C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_02_23082023\PreferenciasBLL\obj\Debug\PreferenciasBLL.pdb

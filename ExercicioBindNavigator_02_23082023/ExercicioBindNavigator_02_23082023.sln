@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioBindNavigator_02_23082023", "ExercicioBindNavigator_02_23082023\ExercicioBindNavigator_02_23082023.csproj", "{784FA1C7-A020-4ED5-8DF0-71F205F9C3E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreferenciasBLL", "PreferenciasBLL\PreferenciasBLL.csproj", "{1BE076A3-D034-4755-ACEF-B5ABB61B0E19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{784FA1C7-A020-4ED5-8DF0-71F205F9C3E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784FA1C7-A020-4ED5-8DF0-71F205F9C3E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784FA1C7-A020-4ED5-8DF0-71F205F9C3E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784FA1C7-A020-4ED5-8DF0-71F205F9C3E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BE076A3-D034-4755-ACEF-B5ABB61B0E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE076A3-D034-4755-ACEF-B5ABB61B0E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE076A3-D034-4755-ACEF-B5ABB61B0E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE076A3-D034-4755-ACEF-B5ABB61B0E19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
