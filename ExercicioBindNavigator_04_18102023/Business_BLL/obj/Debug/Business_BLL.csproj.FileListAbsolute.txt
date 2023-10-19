@@ -1,0 +1,5 @@
+C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_04_18102023\Business_BLL\bin\Debug\Business_BLL.dll
+C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_04_18102023\Business_BLL\bin\Debug\Business_BLL.pdb
+C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_04_18102023\Business_BLL\obj\Debug\Business_BLL.csprojResolveAssemblyReference.cache
+C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_04_18102023\Business_BLL\obj\Debug\Business_BLL.dll
+C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_04_18102023\Business_BLL\obj\Debug\Business_BLL.pdb

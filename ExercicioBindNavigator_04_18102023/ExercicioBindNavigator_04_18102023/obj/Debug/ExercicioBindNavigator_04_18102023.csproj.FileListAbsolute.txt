@@ -1,0 +1,11 @@
+C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_04_18102023\ExercicioBindNavigator_04_18102023\bin\Debug\ExercicioBindNavigator_04_18102023.exe.config
+C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_04_18102023\ExercicioBindNavigator_04_18102023\obj\Debug\ExercicioBindNavigator_04_18102023.csprojResolveAssemblyReference.cache
+C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_04_18102023\ExercicioBindNavigator_04_18102023\obj\Debug\ExercicioBindNavigator_04_18102023.frmExercicioBindNavigator_04_18102023.resources
+C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_04_18102023\ExercicioBindNavigator_04_18102023\obj\Debug\ExercicioBindNavigator_04_18102023.Properties.Resources.resources
+C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_04_18102023\ExercicioBindNavigator_04_18102023\obj\Debug\ExercicioBindNavigator_04_18102023.csproj.GenerateResource.Cache
+C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_04_18102023\ExercicioBindNavigator_04_18102023\bin\Debug\ExercicioBindNavigator_04_18102023.exe
+C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_04_18102023\ExercicioBindNavigator_04_18102023\bin\Debug\ExercicioBindNavigator_04_18102023.pdb
+C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_04_18102023\ExercicioBindNavigator_04_18102023\bin\Debug\Business_BLL.dll
+C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_04_18102023\ExercicioBindNavigator_04_18102023\bin\Debug\Business_BLL.pdb
+C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_04_18102023\ExercicioBindNavigator_04_18102023\obj\Debug\ExercicioBindNavigator_04_18102023.exe
+C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_04_18102023\ExercicioBindNavigator_04_18102023\obj\Debug\ExercicioBindNavigator_04_18102023.pdb
