@@ -9,3 +9,6 @@ C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_04_18102023\ExercicioBindNaviga
 C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_04_18102023\ExercicioBindNavigator_04_18102023\bin\Debug\Business_BLL.pdb
 C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_04_18102023\ExercicioBindNavigator_04_18102023\obj\Debug\ExercicioBindNavigator_04_18102023.exe
 C:\CURSO PROGRAMAR\C#.NET\ExercicioBindNavigator_04_18102023\ExercicioBindNavigator_04_18102023\obj\Debug\ExercicioBindNavigator_04_18102023.pdb
+C:\GitHub\CursoProgrAmar\C#.net\ExercicioBindNavigator_04_18102023\ExercicioBindNavigator_04_18102023\bin\Debug\ExercicioBindNavigator_04_18102023.exe.config
+C:\GitHub\CursoProgrAmar\C#.net\ExercicioBindNavigator_04_18102023\ExercicioBindNavigator_04_18102023\obj\Debug\ExercicioBindNavigator_04_18102023.exe
+C:\GitHub\CursoProgrAmar\C#.net\ExercicioBindNavigator_04_18102023\ExercicioBindNavigator_04_18102023\obj\Debug\ExercicioBindNavigator_04_18102023.pdb

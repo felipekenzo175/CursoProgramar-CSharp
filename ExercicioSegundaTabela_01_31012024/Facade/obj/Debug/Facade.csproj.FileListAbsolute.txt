@@ -1,0 +1,9 @@
+C:\CURSO PROGRAMAR\1. C#.NET\ExercicioSegundaTabela_01_31012024\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
+C:\CURSO PROGRAMAR\1. C#.NET\ExercicioSegundaTabela_01_31012024\Facade\bin\Debug\Facade.dll
+C:\CURSO PROGRAMAR\1. C#.NET\ExercicioSegundaTabela_01_31012024\Facade\bin\Debug\Facade.pdb
+C:\CURSO PROGRAMAR\1. C#.NET\ExercicioSegundaTabela_01_31012024\Facade\bin\Debug\DAO_BLL.dll
+C:\CURSO PROGRAMAR\1. C#.NET\ExercicioSegundaTabela_01_31012024\Facade\bin\Debug\Modal.dll
+C:\CURSO PROGRAMAR\1. C#.NET\ExercicioSegundaTabela_01_31012024\Facade\bin\Debug\DAO_BLL.pdb
+C:\CURSO PROGRAMAR\1. C#.NET\ExercicioSegundaTabela_01_31012024\Facade\bin\Debug\Modal.pdb
+C:\CURSO PROGRAMAR\1. C#.NET\ExercicioSegundaTabela_01_31012024\Facade\obj\Debug\Facade.dll
+C:\CURSO PROGRAMAR\1. C#.NET\ExercicioSegundaTabela_01_31012024\Facade\obj\Debug\Facade.pdb
